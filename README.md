@@ -13,3 +13,4 @@ Algorithmie et intelligence artificielle
 Rigueur
 Programmation imperative
 
+<img width="1925" alt="117971875-b3b64f80-b32a-11eb-84c6-6dcf5b12739a" src="https://user-images.githubusercontent.com/65847371/200434062-e78c3f12-77ed-4ee2-b335-2294a986cc35.png">
